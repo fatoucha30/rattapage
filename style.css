@@ -1,0 +1,83 @@
+
+.navbar  li{
+    display: inline-block;
+    margin-left: 110px;
+    word-spacing:0px;
+}
+ .im{
+    margin-right:50px;
+}
+.log{
+   margin-left:-60px;
+}
+.col{
+ background-color:blue;
+}
+.fo{
+   margin-left:20px;
+}
+   .di{
+       display: flex;
+   }
+.im{
+    text-align:right;
+    margin-left:500px;
+    margin-top:-280px;
+}
+.hy{
+    display: flex;
+      
+  
+}
+.to{
+    display:flex;
+}
+.hym{
+    text-align:center;
+}
+.p{
+    margin-left:60px;
+}
+.gt{
+   height:-40px;
+    box-shadow: 10px 5px 10px 5px black;
+   width:400px;
+}
+
+.by{
+    text-align:center;
+
+;
+}
+.di{
+   display: flex;
+   margin-top: 40px; 
+}
+.ju{
+  box-shadow: 2px 2px 2px 2px black;
+  width: 250px;
+  text-align: center;
+
+}
+.but{
+    background-color: blue;
+}
+.na{
+    margin-left: 400px;
+}
+.mp{
+    display: flex;
+    padding:0px 150px;
+
+}
+.mp .ju{
+    padding: 0px 40px;
+}
+.iu{
+    display: flex;
+    padding:0px 300px;
+ width: 700px;
+  
+
+
+}
